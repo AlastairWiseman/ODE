@@ -12,4 +12,4 @@ Further there are also two files that contain the details (i.e. coefficients and
 
 Finally, there are also files that can be run to produce all of the plots used in the aforementioned project (labeled for the chapters the plots appear in).
 
-To use this code simply download all files into one directory and call any of the functions defined within. Using most functions is explained where they are defined and examples of their use can be found in the files labeled "ChapeterPlots...", however such explanations are minimal and in places incomplete.
+To use this code simply download all files into one directory and call any of the functions defined within. Using most functions is explained where they are defined and examples of their use can be found in the files labeled "ChapeterPlots...". However such explanations are minimal and in places incomplete. You will also need to have numpy, scipy and matplotlib installed in order to run the files.
